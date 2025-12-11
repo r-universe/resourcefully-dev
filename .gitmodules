@@ -8,3 +8,6 @@
 [submodule "evsim"]
 	path = evsim
 	url = https://github.com/resourcefully-dev/evsim
+[submodule "timefully"]
+	path = timefully
+	url = https://github.com/resourcefully-dev/timefully
